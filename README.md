@@ -12,3 +12,8 @@
 > 링크는 🐥매주 일요일🐥 업데이트됩니다.  
 > [📙Notion](https://www.notion.so/choisohyun/Frontend-Develop-Articles-4467b6aa4c094005ba4dcb94aec1fafe)에서도 동일한 글을 볼 수 있습니다.
 
+## 링크
+
+아래 페이지를 클릭하면 해당 날짜에 업로드한 내용을 볼 수 있습니다. 😀
+
+- [Initial Upload - 2020-07-08](articles/2020-07-08.md)
